@@ -1,0 +1,12 @@
+{
+  "name": "mapping",
+  "version": "1.0.0",
+  "description": "nodejs database mapping template",
+  "main": "index.js",
+  "author": "levymateusmacedo@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.1.0"
+  }
+}
